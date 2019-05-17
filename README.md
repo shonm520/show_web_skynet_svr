@@ -23,8 +23,8 @@
 
 ### 示意图：
 
-https://github.com/shonm520/show_web_skynet_svr/blob/master/skynet_list.png
-https://github.com/shonm520/show_web_skynet_svr/blob/master/skynet_.png
+![服务列表](https://github.com/shonm520/show_web_skynet_svr/blob/master/skynet_list.png)
+![服务内存](https://github.com/shonm520/show_web_skynet_svr/blob/master/skynet_mem.png)
 
 
 
