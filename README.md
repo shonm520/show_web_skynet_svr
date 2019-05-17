@@ -27,4 +27,7 @@
 ![服务内存](https://github.com/shonm520/show_web_skynet_svr/blob/master/skynet_mem.png)
 
 
+QQ讨论群：858791125
+
+
 
